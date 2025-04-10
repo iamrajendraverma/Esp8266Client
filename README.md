@@ -18,3 +18,12 @@ The ESP8266Client firmware is specifically engineered to facilitate effortless i
   <img src="https://github.com/user-attachments/assets/28fa407b-05f1-42e5-af0e-eb15d27cb250" style="width: 50%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/8d3160d0-45bb-45d7-86bc-d31347533204" style="width: 50%; height: auto;">
 </div>
+
+### Pin Mapping 
+
+|   |   |
+|---|---|
+| d1 | 4 |
+| d2 | 5 |
+| d0 | 16 |
+| d4 | 2 |
